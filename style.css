@@ -9,8 +9,7 @@
 body {
   display: flex;
   justify-content: center;
-  align-items: flex-start;
-  padding-top: 10px;
+  align-items: center;
   height: 100vh;
   background: hsl(210, 46%, 95%);
 }
